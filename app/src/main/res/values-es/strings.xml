@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ESP The Painting Assistant</string>
+    <string name="author">ESP Jonathan Espinal</string>
+    <string name="version">ESP Version 1.0</string>
+
+    <string name="user_name">ESP Username</string>
+    <string name="user_password">ESP Password</string>
+    <string name="login">ESP Login</string>
+
+    <string name="library_activity_heading">ESP Library</string>
+    <string name="library_add_project_button">ESP Add New Project</string>
+
+    <string name="add_project_name">ESP Project Name</string>
+    <string name="add_project_description">ESP Description</string>
+    <string name="add_project_notes">ESP Notes</string>
+    <string name="add_project_add_thumbnail_button">ESP Add Photo</string>
+
+    <string name="menu_library">ESP Library</string>
+    <string name="menu_settings">ESP Settings</string>
+    <string name="menu_logout">ESP Log Out</string>
+    <string name="menu_about">ESP About</string>
+
+    <string name="preference_dark_mode">ESP Dark Mode</string>
+    <string name="preference_dark_mode_summary">ESP Toggle between light/dark mode theme across entire the application</string>
+    <string name="preference_font_size">ESP Notes Font Size</string>
+    <string name="preference_font_size_summary">ESP Changes the size of the notes text on the project page (Default:18)</string>
+    <string name="preference_category">ESP UI Settings</string>
+
+    <string name="project_details_notes">ESP Notes</string>
+    <string name="project_details_add_photo_button">ESP Add Photo To Gallery</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LargeHeadingText" parent="@style/Theme.AndroidFinalProject">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="MediumHeadingText" parent="@style/Theme.AndroidFinalProject">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="SmallHeadingText" parent="@style/Theme.AndroidFinalProject">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="LargeRegularText" parent="@style/Theme.AndroidFinalProject">
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="MediumRegularText" parent="@style/Theme.AndroidFinalProject">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="SmallRegularText" parent="@style/Theme.AndroidFinalProject">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="LargeSubText" parent="@style/Theme.AndroidFinalProject">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="MediumSubText" parent="@style/Theme.AndroidFinalProject">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="SmallSubText" parent="@style/Theme.AndroidFinalProject">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="Button" parent="@style/Theme.AndroidFinalProject">
+       <item name="backgroundTint">#2196F3</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>
